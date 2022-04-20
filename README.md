@@ -22,25 +22,28 @@ Azure IoT Hub onboarding guide for TPM protected device.
     <th colspan="3">Authentication Type</th>
 </tr>
 <tr>
-    <th></th>
+    <th>Symmetric key</th>
     <th>TPM</th>
-    <th>X.509 Self-signed</th>
-    <th>X.509 CA-signed</th>
+    <th>X.509 Self-Signed</th>
+    <th>X.509 CA Signed</th>
 </tr>
 <tr>
     <td align="center">Ordinary <a href="#3">[3]</a></td>
+    <td align="center"><a href="docs/1.md">1.md</a></td>
     <td align="center"></td>
-    <td align="center"><a href="docs/2.md">2</a></td>
-    <td align="center"></td>
+    <td align="center"><a href="docs/2.md">2.md</a></td>
+    <td align="center"><a href="docs/3.md">3.md</a></td>
 </tr>
 <tr>
     <td align="center">Edge <a href="#4">[4]</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center"></td>
 </tr>
 <tr>
     <td align="center">Leaf <a href="#5">[5]</a></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
