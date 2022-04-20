@@ -28,22 +28,22 @@ Azure IoT Hub onboarding guide for TPM protected device.
     <th>X.509 CA-signed</th>
 </tr>
 <tr>
-    <td>Ordinary <a href="#3">[3]</a></td>
-    <td></td>
-    <td style="text-align:center"><a href="docs/2.md">go</a></td>
-    <td></td>
+    <td align="center">Ordinary <a href="#3">[3]</a></td>
+    <td align="center"></td>
+    <td align="center"><a href="docs/2.md">2</a></td>
+    <td align="center"></td>
 </tr>
 <tr>
-    <td>Edge <a href="#4">[4]</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center">Edge <a href="#4">[4]</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 <tr>
-    <td>Leaf <a href="#5">[5]</a></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td align="center">Leaf <a href="#5">[5]</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 </table>
 
