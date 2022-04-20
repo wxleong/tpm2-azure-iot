@@ -30,7 +30,7 @@ Azure IoT Hub onboarding guide for TPM protected device.
 <tr>
     <td>Ordinary <a href="#3">[3]</a></td>
     <td></td>
-    <td></td>
+    <td><a href="docs/2.md">2</a></td>
     <td></td>
 </tr>
 <tr>
