@@ -16,6 +16,39 @@ Azure IoT Hub onboarding guide for TPM protected device.
 
 # Guide
 
+Azure IoT Hub:
+<table>
+<tr>
+    <th>Device Type</th>
+    <th colspan="4">Authentication Type</th>
+</tr>
+<tr>
+    <th></th>
+    <th>Symmetric key</th>
+    <th>X.509 Self-Signed</th>
+    <th>X.509 CA Signed</th>
+</tr>
+<tr>
+    <td align="center">Ordinary <a href="#3">[3]</a></td>
+    <td align="center"><a href="docs/1.md">1.md</a></td>
+    <td align="center"><a href="docs/2.md">2.md</a></td>
+    <td align="center"><a href="docs/3.md">3.md</a></td>
+</tr>
+<tr>
+    <td align="center">Edge <a href="#4">[4]</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+</tr>
+<tr>
+    <td align="center">Leaf <a href="#5">[5]</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+</tr>
+</table>
+
+Azure IoT Hub Device Provisioning Service:
 <table>
 <tr>
     <th>Device Type</th>
@@ -30,10 +63,10 @@ Azure IoT Hub onboarding guide for TPM protected device.
 </tr>
 <tr>
     <td align="center">Ordinary <a href="#3">[3]</a></td>
-    <td align="center"><a href="docs/1.md">1.md</a></td>
-    <td align="center"><a href="docs/2.md">2.md</a></td>
-    <td align="center"><a href="docs/3.md">3.md</a></td>
     <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"><a href="docs/4.md">4.md</a></td>
 </tr>
 <tr>
     <td align="center">Edge <a href="#4">[4]</a></td>
