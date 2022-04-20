@@ -22,6 +22,7 @@ Azure IoT Hub onboarding guide for TPM protected device.
     <th colspan="3">Authentication Type</th>
 </tr>
 <tr>
+    <th></th>
     <th>Symmetric key</th>
     <th>TPM</th>
     <th>X.509 Self-Signed</th>
