@@ -83,6 +83,12 @@ Azure IoT Hub Device Provisioning Service:
     <td align="center"></td>
 </tr>
 </table>
+<!--
+DPS - indi enrollment - ordinary device - symmetric keys - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key
+DPS - indi enrollment - ordinary device - X.509 - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-x509
+DPS - group enrollment - ordinary device - symmetric keys - soft key: https://docs.microsoft.com/en-us/azure/iot-dps/how-to-legacy-device-symm-key
+DPS - group enrollment - ordinary device - X.509  - soft key: https://docs.microsoft.com/en-us/azure/iot-dps/tutorial-custom-hsm-enrollment-group-x509
+-->
 
 # References
 
