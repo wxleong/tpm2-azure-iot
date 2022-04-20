@@ -19,7 +19,7 @@ Azure IoT Hub onboarding guide for TPM protected device.
 <table>
 <tr>
     <th>Device Type</th>
-    <th colspan="3">Authentication Type</th>
+    <th colspan="4">Authentication Type</th>
 </tr>
 <tr>
     <th></th>
