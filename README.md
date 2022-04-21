@@ -56,24 +56,37 @@ Azure IoT Hub Device Provisioning Service:
 </tr>
 <tr>
     <th></th>
+    <th colspan="3">Individual Enrollment</th>
+    <th colspan="2">Enrollment Group</th>
+</tr>
+<tr>
+    <th></th>
     <th>Symmetric key</th>
     <th>X.509</th>
     <th>TPM</th>
+    <th>Symmetric key</th>
+    <th>X.509</th>
 </tr>
 <tr>
     <td align="center">Ordinary <a href="#3">[3]</a></td>
-    <td align="center"></td>
+    <td align="center"><a href="docs/7.md">^7.md</a></td>
     <td align="center"><a href="docs/5.md">5.md</a>, <a href="docs/6.md">^6.md</a></td>
     <td align="center"><a href="docs/4.md">4.md</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 <tr>
     <td align="center">Edge <a href="#4">[4]</a></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
 </tr>
 <tr>
     <td align="center">Leaf <a href="#5">[5]</a></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
