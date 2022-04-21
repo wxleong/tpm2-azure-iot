@@ -16,7 +16,7 @@ Azure IoT Hub onboarding guide for TPM protected device.
 
 # Guide
 
-Azure IoT Hub:
+Onboard via Azure IoT Hub:
 <table>
 <tr>
     <th></th>
@@ -48,7 +48,7 @@ Azure IoT Hub:
 </tr>
 </table>
 
-Azure IoT Hub Device Provisioning Service:
+Onboard via Azure IoT Hub Device Provisioning Service (DPS):
 <table>
 <tr>
     <th></th>
