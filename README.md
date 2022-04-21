@@ -57,20 +57,17 @@ Azure IoT Hub Device Provisioning Service:
 <tr>
     <th></th>
     <th>Symmetric key</th>
-    <th>X.509 Self-Signed</th>
-    <th>X.509 CA Signed</th>
+    <th>X.509</th>
     <th>TPM</th>
 </tr>
 <tr>
     <td align="center">Ordinary <a href="#3">[3]</a></td>
     <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center"><a href="docs/5.md">5.md</a></td>
     <td align="center"><a href="docs/4.md">4.md</a></td>
 </tr>
 <tr>
     <td align="center">Edge <a href="#4">[4]</a></td>
-    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
@@ -80,14 +77,17 @@ Azure IoT Hub Device Provisioning Service:
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
-    <td align="center"></td>
 </tr>
 </table>
 <!--
 DPS - indi enrollment - ordinary device - symmetric keys - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key
 DPS - indi enrollment - ordinary device - X.509 - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-x509
+                                                     https://github.com/Azure/azure-iot-sdk-c/tree/main/provisioning_client/samples/prov_dev_client_ll_x509_sample
+                                                     the Registration ID is taken from the certificate CN
+                                                     https://github.com/MicrosoftDocs/azure-docs/issues/9278
 DPS - group enrollment - ordinary device - symmetric keys - soft key: https://docs.microsoft.com/en-us/azure/iot-dps/how-to-legacy-device-symm-key
 DPS - group enrollment - ordinary device - X.509  - soft key: https://docs.microsoft.com/en-us/azure/iot-dps/tutorial-custom-hsm-enrollment-group-x509
+                                                              https://github.com/Azure/azure-iot-sdk-c/tree/main/provisioning_client/samples/prov_dev_client_ll_x509_sample
 -->
 
 # References
