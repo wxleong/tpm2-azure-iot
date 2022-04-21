@@ -93,7 +93,7 @@ Onboard via Azure IoT Hub Device Provisioning Service (DPS):
 </tr>
 </table>
 
-*^ marking: no TPM support*
+*^ annotation: no TPM support*
 
 <!--
 DPS - indi enrollment - ordinary device - symmetric keys - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key
