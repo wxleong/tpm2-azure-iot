@@ -52,7 +52,7 @@ Azure IoT Hub Device Provisioning Service:
 <table>
 <tr>
     <th>Device Type</th>
-    <th colspan="4">Attestation Mechanism</th>
+    <th colspan="6">Attestation Mechanism</th>
 </tr>
 <tr>
     <th></th>
