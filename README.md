@@ -19,11 +19,11 @@ Azure IoT Hub onboarding guide for TPM protected device.
 Azure IoT Hub:
 <table>
 <tr>
-    <th>Device Type</th>
+    <th></th>
     <th colspan="4">Authentication Type</th>
 </tr>
 <tr>
-    <th></th>
+    <th>Device Type</th>
     <th>Symmetric key</th>
     <th>X.509 Self-Signed</th>
     <th>X.509 CA Signed</th>
@@ -51,7 +51,7 @@ Azure IoT Hub:
 Azure IoT Hub Device Provisioning Service:
 <table>
 <tr>
-    <th>Device Type</th>
+    <th></th>
     <th colspan="6">Attestation Mechanism</th>
 </tr>
 <tr>
@@ -60,7 +60,7 @@ Azure IoT Hub Device Provisioning Service:
     <th colspan="2">Enrollment Group</th>
 </tr>
 <tr>
-    <th></th>
+    <th>Device Type</th>
     <th>Symmetric key</th>
     <th>X.509</th>
     <th>TPM</th>
