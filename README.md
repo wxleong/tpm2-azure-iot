@@ -63,7 +63,7 @@ Azure IoT Hub Device Provisioning Service:
 <tr>
     <td align="center">Ordinary <a href="#3">[3]</a></td>
     <td align="center"></td>
-    <td align="center"><a href="docs/5.md">5.md</a></td>
+    <td align="center"><a href="docs/5.md">5.md</a>, <a href="docs/6.md">6.md</a></td>
     <td align="center"><a href="docs/4.md">4.md</a></td>
 </tr>
 <tr>
