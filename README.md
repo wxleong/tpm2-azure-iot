@@ -72,7 +72,7 @@ Onboard via Azure IoT Hub Device Provisioning Service (DPS):
     <td align="center"><a href="docs/7.md">^7.md</a></td>
     <td align="center"><a href="docs/5.md">5.md</a>, <a href="docs/6.md">^6.md</a></td>
     <td align="center"><a href="docs/4.md">4.md</a></td>
-    <td align="center"></td>
+    <td align="center"><a href="docs/8.md">8.md</a></td>
     <td align="center"></td>
 </tr>
 <tr>
