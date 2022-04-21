@@ -80,7 +80,7 @@ Azure IoT Hub Device Provisioning Service:
 </tr>
 </table>
 
-*Link marked with ^: TPM is not supported*
+*^ marking: TPM is not supported*
 
 <!--
 DPS - indi enrollment - ordinary device - symmetric keys - ?: https://docs.microsoft.com/en-us/azure/iot-dps/quick-create-simulated-device-symm-key
