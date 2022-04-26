@@ -36,7 +36,7 @@ Onboard via Azure IoT Hub:
 </tr>
 <tr>
     <td align="center">Edge <a href="#4">[4]</a></td>
-    <td align="center"></td>
+    <td align="center"><a href="docs/10.md">^10.md</a></td>
     <td align="center"></td>
     <td align="center"></td>
 </tr>
